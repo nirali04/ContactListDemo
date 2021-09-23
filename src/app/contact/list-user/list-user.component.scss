@@ -1,0 +1,22 @@
+table {
+    width: 100%;
+  }
+  .content {
+    display: flex;
+    margin: 82px auto 32px;
+    flex-direction: column;
+    align-items: center;
+  }
+  .btn {
+    align-self: flex-end;
+    padding: 10px;
+  }
+  .img-style {
+    height: 50px;
+    width: 50px;
+    padding:5px;
+    border-radius: 30px;
+  }
+  mat-form-field {
+    width: 100%;
+  }
